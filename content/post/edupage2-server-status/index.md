@@ -7,6 +7,8 @@ tags:
   - EduPage2
   - Server
   - Status
+categories:
+  - EduPage2
 image: cover.png
 ---
 
