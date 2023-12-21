@@ -68,3 +68,18 @@ enabled = true
 
 [imageProcessing.content]
 enabled = true
+
+[comments]
+enabled = true
+provider = "giscus"
+
+[comments.giscus]
+repo = "vyPal/vyPal.github.io"
+repoID = "MDEwOlJlcG9zaXRvcnkyOTM4Mjk1ODI="
+category = "General"
+categoryID = "DIC_kwDOEYN7zs4Cb6KY"
+mapping = "pathname"
+lightTheme = "0"
+darkTheme = "1"
+reactionsEnabled = 1
+emitMetadata = 0
