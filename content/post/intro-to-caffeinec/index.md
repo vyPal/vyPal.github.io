@@ -79,7 +79,7 @@ if you are on windows, or the other file if you are on linux. The copy the execu
 ./CaffeineC build demo.caffc
 ```
 or if you are on windows:
-```
+```bash
 ./CaffeineC.exe build demo.caffc
 ```
 You should now have a file named `output` or `output.exe` in the same directory, it you run it, it should print `15` in the command line.
