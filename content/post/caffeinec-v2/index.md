@@ -2,7 +2,7 @@
 title: "CaffeineC v2"
 description: The first major update to CaffeineC
 date: 2023-12-21T14:02:30+01:00
-draft: true
+draft: false
 image: cover.png
 categories:
   - CaffeineC
